@@ -1,0 +1,6 @@
+dm_haiku==0.0.12
+jax==0.4.25
+numpy==2.2.2
+pandas==2.2.3
+pickle5==0.0.11
+tqdm==4.66.2
