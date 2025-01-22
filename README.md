@@ -1,5 +1,4 @@
 # DLIRL: Data-light Inverse Reinforcement Learning
-Official source code from the paper "Cross-cultural Deployment of Autonomous Vehicles Using Data-light Inverse Reinforcement Learning"
 ## setup
 This repo is designed under python 3.9.x. Can work using cpu.
 ## Running
