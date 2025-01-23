@@ -6,7 +6,7 @@ This repo is designed under python 3.9.x. Can work using cpu.
     - [HighD](https://levelxdata.com/highd-dataset/)
     - [DJI](https://dronenr.com/2024/07/05/zyts-ad4che-dataset-powered-dji-drones/)
     - [NGSIM](https://datahub.transportation.gov/stories/s/Next-Generation-Simulation-NGSIM-Open-Data/i5zb-xe34/)
-2. Replace file path to your own path and run `collect_xxx.py`. This pre-generate transitions used for training.
+2. Replace file path to your own path and run `collect_xxx.py`. This pre-generates transitions used for training.
 3. Run `train.py`
 4. Find trained model in output path. Use `load.py` to get successor_features. Specify successor features and another culture you want to deploy cross-culture in `train.py` and run it again.
 5. Now you have 2 models: origin one and cross-cultural one.
